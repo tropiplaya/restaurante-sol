@@ -1,0 +1,41 @@
+body {
+    position: relative;
+}
+
+.custom-bg {
+    background-image: url("../images/repeating-triangles.svg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+header {
+    margin-bottom: 90px;
+}
+.header-slogan {
+    font-family: cursive;
+    font-size: 1.2rem;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.nav-item a span {
+    font-size: 1.5rem;
+    font-weight: 1000;
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+body {
+    color: #3a0e0e !important;
+}
+
+.card-menu {
+    background-color: #f4efeb;
+    margin: 10px;
+    color: #3e362e;
+}
+
+h6 {
+    font-size: 0.8rem;
+}

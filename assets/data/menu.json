@@ -1,0 +1,41 @@
+[
+  {
+    "nombre": "Menú del día",
+    "precio": "9.00",
+    "contenido": [
+      {
+        "categoria": "ENTRANTES",
+        "platos": [
+          "ENSALADA CHINA",
+          "ROLLITO DE PRIMAVERA",
+          "SOPA DE HUEVO REVUELTO"
+        ]
+      },
+      {
+        "categoria": "PRIMEROS",
+        "platos": [
+          "ARROZ TRES DELICIAS",
+          "TALLARINES CON TERNERA"
+        ]
+      },
+      {
+        "categoria": "SEGUNDOS",
+        "platos": [
+          "POLLO CON ALMENDRAS",
+          "CERDO AGRIDULCE",
+          "TERNERA CON PIMIENTOS VERDES"
+        ]
+      },
+      {
+        "categoria": "BEBIDAS",
+        "platos": [
+          "REFRESCOS a elegir          Cerveza: Mahou tercio, 00 Tostada lata          Vino: Copa tinto o blanco          Agua 0,5, Agua con gas 0,5          (NO SE INLUYE BOTELLAS DE VINO O JARRA DE SANGRIA)          POSTRE a elegir entre:          Flan con nata o sin          1 Bola de helado: fresa, nata, chocolate o vainilla O Café -Infusión"
+        ]
+      }
+    ],
+    "observaciones": [
+      "LUNES A VIERNES DE 12:30h-16:00h",
+      "NO SE REALIZAN CAMBIO DE LOS PLATOS POR OTROS Tienen opción de quitar ingredientes (a consultar) NO SE REALIZA DELIVERY DE ESTE MENU"
+    ]
+  }
+]
