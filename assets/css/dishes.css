@@ -1,0 +1,84 @@
+.custom-bg {
+    background-image: url("../images/repeating-triangles.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+body {
+    position: relative;
+    font-size: 0.8rem;
+}
+
+.nav-pills .nav-link.active {
+    background: none;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.nav-link {
+    background: none;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+#section-navbar > li > a{
+    background: none;
+}
+
+#section-navbar > li > a.active{
+    background: none;
+}
+
+#pills-tabContent > div > ul > li > a{
+    font-style: italic;
+}
+
+.text-gold {
+    font-family: 'Merriweather Sans', sans-serif; !important;
+    color: black; !important;
+}
+
+.nav {
+    flex-wrap: nowrap; !important;
+    overflow-x: auto; !important;
+    white-space: nowrap;
+}
+
+#logo {
+    max-height: 80px;
+}
+
+#dish-list {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+@media print {
+    #dish-list .row {page-break-after: always;}
+    #dish-list img {display:none}
+}
+
+.example {
+    overflow-x: scroll; /* Add the ability to scroll */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.example::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+p.h5 {
+    letter-spacing: 3px;
+    word-spacing: 10px;
+}
+
+.text-menu {
+    line-height: 2;
+}
+
