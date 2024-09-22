@@ -29,7 +29,7 @@
 <div class="container">
     <!-- Content here -->
     <div class="row justify-content-center">
-        <div class="col-8 card card-menu align-items-start">
+        <div class="col-11 card card-menu align-items-start">
             <div class="row card-header">
                 <div class="col-12">
                     <h2>
@@ -38,7 +38,7 @@
                 </div>
             </div>
 
-            <div class="row card-body" id="carta-content">
+            <div class="row card-body container-fluid h-100" id="carta-content">
             </div>
         </div>
     </div>
@@ -62,7 +62,7 @@
 
             var html = '';
             for (var key in parsedData) {
-                html += '<div class="col-lg-6"><h4 class="text-decoration-underline">' + key +
+                html += '<div class="col-lg-6 float-left"><h4 class="text-decoration-underline">' + key +
                     '</h4>'
 
                 for (var index in parsedData[key]) {
@@ -70,7 +70,10 @@
                     if (parsedData[key][index]['cod']) {
                         html += '<span>(' + parsedData[key][index]['cod'] + ') </span>';
                     }
-                    html += '<span>' + parsedData[key][index]['name'] + '</span>';
+
+                    let dessert = parsedData[key][index]['name'].charAt(0) + parsedData[key][index]['name'].substring(1).toLowerCase();
+
+                    html += '<span>' + dessert + '</span>';
                     html += '<span> ' + parsedData[key][index]['salon'] + '</span>';
                     html += '</p>';
                 }

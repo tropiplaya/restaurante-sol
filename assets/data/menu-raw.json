@@ -3,43 +3,43 @@
     "cod": "1",
     "category": "ENSALADAS",
     "name": "ENSALADA CHINA",
-    "delivery": "3,80 €",
-    "salon": "4,50 € "
+    "delivery": "3,80€",
+    "salon": "4,50€ "
   },
   {
     "cod": "2",
     "category": "ENSALADAS",
     "name": "ENSALADA DE LA CASA",
-    "delivery": "4,15 €",
-    "salon": "4,80 € "
+    "delivery": "4,15€",
+    "salon": "4,80€ "
   },
   {
     "cod": "5",
     "category": "ENSALADAS",
     "name": "ENSALADA CON BROTES DE SOJA",
-    "delivery": "4,00 €",
-    "salon": "4,60 € "
+    "delivery": "4,00€",
+    "salon": "4,60€ "
   },
   {
     "cod": "6",
     "category": "ENSALADAS",
     "name": "ENSALADA CON CARNE DE CANGREJO",
-    "delivery": "3,95 €",
-    "salon": "4,60 € "
+    "delivery": "3,95€",
+    "salon": "4,60€ "
   },
   {
     "cod": "7",
     "category": "ENSALADAS",
     "name": "ENSALADA CON GAMBAS",
-    "delivery": "4,15 €",
-    "salon": "4,80 € "
+    "delivery": "4,15€",
+    "salon": "4,80€ "
   },
   {
     "cod": "402",
     "category": "ENSALADAS",
     "name": "EDAMAME",
-    "delivery": "4,40 €",
-    "salon": "5,00 € "
+    "delivery": "4,40€",
+    "salon": "5,00€ "
   },
   {
     "cod": "",
@@ -52,43 +52,43 @@
     "cod": "3",
     "category": "FRITOS",
     "name": "ROLLO DE PRIMAVERA",
-    "delivery": "1,90 €",
-    "salon": "2,50 € "
+    "delivery": "1,90€",
+    "salon": "2,50€ "
   },
   {
     "cod": "403",
     "category": "FRITOS",
     "name": "ROLLITOS VEGETALES (4 UD)",
-    "delivery": "4,60 €",
-    "salon": "5,40 € "
+    "delivery": "4,60€",
+    "salon": "5,40€ "
   },
   {
     "cod": "4",
     "category": "FRITOS",
     "name": "WAN-TUN FRITO (APROZ 10 UD)",
-    "delivery": "3,70 €",
-    "salon": "4,30 € "
+    "delivery": "3,70€",
+    "salon": "4,30€ "
   },
   {
     "cod": "414",
     "category": "FRITOS",
     "name": "FLOR DE WAN-TUN CON SALSA SWEETCHILLY (6 UD)",
-    "delivery": "5,95 €",
-    "salon": "6,55 € "
+    "delivery": "5,95€",
+    "salon": "6,55€ "
   },
   {
     "cod": "8",
     "category": "FRITOS",
     "name": "PAN DE GAMBAS",
-    "delivery": "3,00 €",
-    "salon": "3,00 € "
+    "delivery": "3,00€",
+    "salon": "3,00€ "
   },
   {
     "cod": "100",
     "category": "FRITOS",
     "name": "PAN CHINO",
-    "delivery": "2,40 €",
-    "salon": "2,40 € "
+    "delivery": "2,40€",
+    "salon": "2,40€ "
   },
   {
     "cod": "",
@@ -115,57 +115,57 @@
     "cod": "11",
     "category": "SOPAS",
     "name": "SOPA ALETA DE TIBURON",
-    "delivery": "3,75 €",
-    "salon": "3,65 € "
+    "delivery": "3,75€",
+    "salon": "3,65€ "
   },
   {
     "cod": "12",
     "category": "SOPAS",
     "name": "SOPA AGRIA CON PICANTE",
-    "delivery": "3,40 €",
-    "salon": "3,30 € "
+    "delivery": "3,40€",
+    "salon": "3,30€ "
   },
   {
     "cod": "13",
     "category": "SOPAS",
     "name": "SOPA DE FIDEOS CHINOS TSA-CHAI",
-    "delivery": "3,25 €",
-    "salon": "3,15 € "
+    "delivery": "3,25€",
+    "salon": "3,15€ "
   },
   {
     "cod": "14",
     "category": "SOPAS",
     "name": "SOPA  WAN-TUN",
-    "delivery": "3,55 €",
-    "salon": "3,45 € "
+    "delivery": "3,55€",
+    "salon": "3,45€ "
   },
   {
     "cod": "15",
     "category": "SOPAS",
     "name": "SOPA DE POLLO CON CHAMPIÑONES",
-    "delivery": "3,35 €",
-    "salon": "3,25 € "
+    "delivery": "3,35€",
+    "salon": "3,25€ "
   },
   {
     "cod": "16",
     "category": "SOPAS",
     "name": "SOPA DE HUEVOS REVUELTOS",
-    "delivery": "3,15 €",
-    "salon": "3,05 € "
+    "delivery": "3,15€",
+    "salon": "3,05€ "
   },
   {
     "cod": "17",
     "category": "SOPAS",
     "name": "SOPA DE MAIZ Y CARNE DE CANGREJO",
-    "delivery": "3,75 €",
-    "salon": "3,65 € "
+    "delivery": "3,75€",
+    "salon": "3,65€ "
   },
   {
     "cod": "18",
     "category": "SOPAS",
     "name": "SOPA TRES DELICIAS",
-    "delivery": "4,05 €",
-    "salon": "3,95 € "
+    "delivery": "4,05€",
+    "salon": "3,95€ "
   },
   {
     "cod": "",
@@ -185,50 +185,50 @@
     "cod": "19",
     "category": "ARROCES",
     "name": "ARROZ FRITO CON POLLO",
-    "delivery": "4,50 €",
-    "salon": "5,20 € "
+    "delivery": "4,50€",
+    "salon": "5,20€ "
   },
   {
     "cod": "20",
     "category": "ARROCES",
     "name": "ARROZ FRITO CON SALSA CURRY",
-    "delivery": "4,55 €",
-    "salon": "5,20 € "
+    "delivery": "4,55€",
+    "salon": "5,20€ "
   },
   {
     "cod": "21",
     "category": "ARROCES",
     "name": "ARROZ FRITO TRES DELICIAS",
-    "delivery": "4,30 €",
-    "salon": "5,00 € "
+    "delivery": "4,30€",
+    "salon": "5,00€ "
   },
   {
     "cod": "22",
     "category": "ARROCES",
     "name": "ARROZ FRITO CON GAMBAS",
-    "delivery": "4,85 €",
-    "salon": "5,45 € "
+    "delivery": "4,85€",
+    "salon": "5,45€ "
   },
   {
     "cod": "23",
     "category": "ARROCES",
     "name": "ARROZ FRITO CON CERDO",
-    "delivery": "4,70 €",
-    "salon": "5,40 € "
+    "delivery": "4,70€",
+    "salon": "5,40€ "
   },
   {
     "cod": "24",
     "category": "ARROCES",
     "name": "ARROZ BLANCO",
-    "delivery": "2,60 €",
-    "salon": "2,60 € "
+    "delivery": "2,60€",
+    "salon": "2,60€ "
   },
   {
     "cod": "29",
     "category": "ARROCES",
     "name": "ARROZ ESPECIAL DE LA CASA",
-    "delivery": "5,65 €",
-    "salon": "6,50 € "
+    "delivery": "5,65€",
+    "salon": "6,50€ "
   },
   {
     "cod": "",
@@ -241,15 +241,15 @@
     "cod": "410",
     "category": "BANDEJAS DE ARROZ CRUJIENTE",
     "name": "ARROZ CON POLLO CRUJIENTE ,SALSA TERIYAKI Y HUEVO",
-    "delivery": "9,10 €",
-    "salon": "12,00 € "
+    "delivery": "9,10€",
+    "salon": "12,00€ "
   },
   {
     "cod": "411",
     "category": "BANDEJAS DE ARROZ CRUJIENTE",
     "name": "ARROZ CON PATO CRUJIENTE, SALSA TERIYAKI Y HUEVO",
-    "delivery": "11,50 €",
-    "salon": "12,50 € "
+    "delivery": "11,50€",
+    "salon": "12,50€ "
   },
   {
     "cod": "",
@@ -262,15 +262,15 @@
     "cod": "98",
     "category": "KU-BAK",
     "name": "KU-BAK TRES DELICIAS",
-    "delivery": "7,35 €",
-    "salon": "8,45 € "
+    "delivery": "7,35€",
+    "salon": "8,45€ "
   },
   {
     "cod": "99",
     "category": "KU-BAK",
     "name": "KU-BAK CON GAMBAS",
-    "delivery": "7,55 €",
-    "salon": "8,50 € "
+    "delivery": "7,55€",
+    "salon": "8,50€ "
   },
   {
     "cod": "",
@@ -290,43 +290,43 @@
     "cod": "25",
     "category": "TALLARINES",
     "name": "TALLARINES FRITOS CON TRES DELICIAS",
-    "delivery": "5,20 €",
-    "salon": "6,00 € "
+    "delivery": "5,20€",
+    "salon": "6,00€ "
   },
   {
     "cod": "26",
     "category": "TALLARINES",
     "name": "TALLARINES FRITOS CON CERDO",
-    "delivery": "5,10 €",
-    "salon": "6,00 € "
+    "delivery": "5,10€",
+    "salon": "6,00€ "
   },
   {
     "cod": "27",
     "category": "TALLARINES",
     "name": "TALLARINES FRITOS CON TERNERA",
-    "delivery": "5,10 €",
-    "salon": "6,00 € "
+    "delivery": "5,10€",
+    "salon": "6,00€ "
   },
   {
     "cod": "28",
     "category": "TALLARINES",
     "name": "TALLARINES FRITOS CON GAMBAS",
-    "delivery": "5,60 €",
-    "salon": "6,20 € "
+    "delivery": "5,60€",
+    "salon": "6,20€ "
   },
   {
     "cod": "84",
     "category": "TALLARINES",
     "name": "TALLARINES FRITOS A LA PLANCHA",
-    "delivery": "7,15 €",
-    "salon": "7,80 € "
+    "delivery": "7,15€",
+    "salon": "7,80€ "
   },
   {
     "cod": "86",
     "category": "TALLARINES",
     "name": "HORMIGAS SUBE AL ARBOL",
-    "delivery": "7,35 €",
-    "salon": "8,00 € "
+    "delivery": "7,35€",
+    "salon": "8,00€ "
   },
   {
     "cod": "",
@@ -339,15 +339,15 @@
     "cod": "89",
     "category": "FIDEOS",
     "name": "FIDEOS DE ARROZ CON GAMBAS",
-    "delivery": "6,45 €",
-    "salon": "7,10 € "
+    "delivery": "6,45€",
+    "salon": "7,10€ "
   },
   {
     "cod": "90",
     "category": "FIDEOS",
     "name": "FIDEOS DE ARROZ CON TERNERA",
-    "delivery": "6,35 €",
-    "salon": "7,00 € "
+    "delivery": "6,35€",
+    "salon": "7,00€ "
   },
   {
     "cod": "",
@@ -367,22 +367,22 @@
     "cod": "30",
     "category": "HUEVO",
     "name": "TORTILLA FRANCESA",
-    "delivery": "4,55 €",
-    "salon": "5,00 € "
+    "delivery": "4,55€",
+    "salon": "5,00€ "
   },
   {
     "cod": "31",
     "category": "HUEVO",
     "name": "TORTILLA FRANCESA GAMBAS",
-    "delivery": "5,20 €",
-    "salon": "5,80 € "
+    "delivery": "5,20€",
+    "salon": "5,80€ "
   },
   {
     "cod": "32",
     "category": "HUEVO",
     "name": "TORTILLA FRANCESA JAMON",
-    "delivery": "5,05 €",
-    "salon": "5,50 € "
+    "delivery": "5,05€",
+    "salon": "5,50€ "
   },
   {
     "cod": "",
@@ -395,22 +395,22 @@
     "cod": "33",
     "category": "VERDURA",
     "name": "BROTES DE SOJA SALTEADOS",
-    "delivery": "5,30 €",
-    "salon": "6,20 € "
+    "delivery": "5,30€",
+    "salon": "6,20€ "
   },
   {
     "cod": "34",
     "category": "VERDURA",
     "name": "VERDURAS VARIADAS SALTEADAS",
-    "delivery": "5,10 €",
-    "salon": "5,70 € "
+    "delivery": "5,10€",
+    "salon": "5,70€ "
   },
   {
     "cod": "103A",
     "category": "VERDURA",
     "name": "PATATAS FRITAS",
-    "delivery": "3,95 €",
-    "salon": "4,55 € "
+    "delivery": "3,95€",
+    "salon": "4,55€ "
   },
   {
     "cod": "",
@@ -423,15 +423,15 @@
     "cod": "35",
     "category": "TOFU",
     "name": "TOFU CON SALSA PICANTE",
-    "delivery": "5,70 €",
-    "salon": "6,30 € "
+    "delivery": "5,70€",
+    "salon": "6,30€ "
   },
   {
     "cod": "36",
     "category": "TOFU",
     "name": "TOFU CON SALSA DE SOJA",
-    "delivery": "5,70 €",
-    "salon": "6,30 € "
+    "delivery": "5,70€",
+    "salon": "6,30€ "
   },
   {
     "cod": "",
@@ -465,8 +465,8 @@
     "cod": "41",
     "category": "PESCADO",
     "name": "PESCADO AGRIDULCE",
-    "delivery": "7,00 €",
-    "salon": "7,60 € "
+    "delivery": "7,00€",
+    "salon": "7,60€ "
   },
   {
     "cod": "",
@@ -486,15 +486,15 @@
     "cod": "42",
     "category": "LANGOSTINOS",
     "name": "LANGOSTINOS FRITOS",
-    "delivery": "8,00 €",
-    "salon": "8,50 € "
+    "delivery": "8,00€",
+    "salon": "8,50€ "
   },
   {
     "cod": "406",
     "category": "LANGOSTINOS",
     "name": "LANGOSTINOS EN TEMPURA CON SALSA TERIYAKI",
-    "delivery": "7,40 €",
-    "salon": "8,00 € "
+    "delivery": "7,40€",
+    "salon": "8,00€ "
   },
   {
     "cod": "",
@@ -514,50 +514,50 @@
     "cod": "43",
     "category": "GAMBAS",
     "name": "GAMBAS AGRIDULCES",
-    "delivery": "7,40 €",
-    "salon": "8,00 € "
+    "delivery": "7,40€",
+    "salon": "8,00€ "
   },
   {
     "cod": "44",
     "category": "GAMBAS",
     "name": "VERDURAS CON GAMBAS",
-    "delivery": "7,50 €",
-    "salon": "8,10 € "
+    "delivery": "7,50€",
+    "salon": "8,10€ "
   },
   {
     "cod": "44A",
     "category": "GAMBAS",
     "name": "GAMBAS CON BROTES DE SOJA",
-    "delivery": "7,60 €",
-    "salon": "8,20 € "
+    "delivery": "7,60€",
+    "salon": "8,20€ "
   },
   {
     "cod": "45",
     "category": "GAMBAS",
     "name": "GAMBAS CON SALSA DE SOJA",
-    "delivery": "8,80 €",
-    "salon": "9,40 € "
+    "delivery": "8,80€",
+    "salon": "9,40€ "
   },
   {
     "cod": "46",
     "category": "GAMBAS",
     "name": "GAMBAS PICANTES CON VERDURA",
-    "delivery": "7,90 €",
-    "salon": "8,60 € "
+    "delivery": "7,90€",
+    "salon": "8,60€ "
   },
   {
     "cod": "81",
     "category": "GAMBAS",
     "name": "GAMBAS CON BAMBU Y SETAS CHINAS",
-    "delivery": "8,80 €",
-    "salon": "9,40 € "
+    "delivery": "8,80€",
+    "salon": "9,40€ "
   },
   {
     "cod": "85",
     "category": "GAMBAS",
     "name": "GAMBAS CON CHAMPIÑONES",
-    "delivery": "8,75 €",
-    "salon": "9,35 € "
+    "delivery": "8,75€",
+    "salon": "9,35€ "
   },
   {
     "cod": "",
@@ -577,29 +577,29 @@
     "cod": "10",
     "category": "CALAMARES",
     "name": "CALAMARES FRITOS",
-    "delivery": "8,80 €",
-    "salon": "8,40 € "
+    "delivery": "8,80€",
+    "salon": "8,40€ "
   },
   {
     "cod": "47",
     "category": "CALAMARES",
     "name": "CALAMARES PICANTES CON VERDURAS",
-    "delivery": "7,90 €",
-    "salon": "8,50 € "
+    "delivery": "7,90€",
+    "salon": "8,50€ "
   },
   {
     "cod": "47A",
     "category": "CALAMARES",
     "name": "CALAMARES CON BAMBU Y SETAS CHINAS",
-    "delivery": "8,30 €",
-    "salon": "8,90 € "
+    "delivery": "8,30€",
+    "salon": "8,90€ "
   },
   {
     "cod": "47B",
     "category": "CALAMARES",
     "name": "CALAMARES CON PIMIENTOS VERDES",
-    "delivery": "7,90 €",
-    "salon": "8,50 € "
+    "delivery": "7,90€",
+    "salon": "8,50€ "
   },
   {
     "cod": "",
@@ -619,22 +619,22 @@
     "cod": "88",
     "category": "MARISCO",
     "name": "MARISCO VARIADO SALTEADO ( calamar, palitos de cangrejo, gambas, verduras variadas)",
-    "delivery": "8,10 €",
-    "salon": "8,70 € "
+    "delivery": "8,10€",
+    "salon": "8,70€ "
   },
   {
     "cod": "91",
     "category": "MARISCO",
     "name": "FAMILIA FELIZ (pollo, ternera, gambas, calamar, palitos de mar y verduras variadas)",
-    "delivery": "7,10 €",
-    "salon": "8,00 € "
+    "delivery": "7,10€",
+    "salon": "8,00€ "
   },
   {
     "cod": "101",
     "category": "MARISCO",
     "name": "ANCAS DE RANA FRITAS CON VERDURAS",
-    "delivery": "7,95 €",
-    "salon": "8,55 € "
+    "delivery": "7,95€",
+    "salon": "8,55€ "
   },
   {
     "cod": "",
@@ -654,113 +654,113 @@
     "cod": "48",
     "category": "TERNERA",
     "name": "TERNERA CON SALSA DE TOMATE",
-    "delivery": "6,40 €",
-    "salon": "7,00 € "
+    "delivery": "6,40€",
+    "salon": "7,00€ "
   },
   {
     "cod": "49",
     "category": "TERNERA",
     "name": "TERNERA CON ZANAHORIA",
-    "delivery": "6,40 €",
-    "salon": "7,00 € "
+    "delivery": "6,40€",
+    "salon": "7,00€ "
   },
   {
     "cod": "50",
     "category": "TERNERA",
     "name": "TERNERA CON MAIZ",
-    "delivery": "6,60 €",
-    "salon": "7,20 € "
+    "delivery": "6,60€",
+    "salon": "7,20€ "
   },
   {
     "cod": "51",
     "category": "TERNERA",
     "name": "TERNERA CON VERDURAS Y SALSA CURRY",
-    "delivery": "6,40 €",
-    "salon": "7,00 € "
+    "delivery": "6,40€",
+    "salon": "7,00€ "
   },
   {
     "cod": "52",
     "category": "TERNERA",
     "name": "TERNERA CON SALSA DE OSTRAS",
-    "delivery": "6,50 €",
-    "salon": "7,10 € "
+    "delivery": "6,50€",
+    "salon": "7,10€ "
   },
   {
     "cod": "53",
     "category": "TERNERA",
     "name": "TERNERA CON PIMIENTOS VERDES",
-    "delivery": "6,40 €",
-    "salon": "7,10 € "
+    "delivery": "6,40€",
+    "salon": "7,10€ "
   },
   {
     "cod": "54",
     "category": "TERNERA",
     "name": "TERNERA CON CEBOLLA",
-    "delivery": "6,40 €",
-    "salon": "7,10 € "
+    "delivery": "6,40€",
+    "salon": "7,10€ "
   },
   {
     "cod": "55",
     "category": "TERNERA",
     "name": "TERNERA CON CHAMPIÑONES",
-    "delivery": "6,50 €",
-    "salon": "7,70 € "
+    "delivery": "6,50€",
+    "salon": "7,70€ "
   },
   {
     "cod": "55A",
     "category": "TERNERA",
     "name": "TERNERA CON OREJA DE MADERA",
-    "delivery": "7,05 €",
-    "salon": "7,70 € "
+    "delivery": "7,05€",
+    "salon": "7,70€ "
   },
   {
     "cod": "56",
     "category": "TERNERA",
     "name": "TERNERA PICANTE CON VERDURAS",
-    "delivery": "6,40 €",
-    "salon": "7,50 € "
+    "delivery": "6,40€",
+    "salon": "7,50€ "
   },
   {
     "cod": "57",
     "category": "TERNERA",
     "name": "VERDURAS CON TERNERA",
-    "delivery": "6,35 €",
-    "salon": "7,50 € "
+    "delivery": "6,35€",
+    "salon": "7,50€ "
   },
   {
     "cod": "58",
     "category": "TERNERA",
     "name": "TERNERA A LA PLANCHA O EN SALSA",
-    "delivery": "7,15 €",
-    "salon": "7,80 € "
+    "delivery": "7,15€",
+    "salon": "7,80€ "
   },
   {
     "cod": "58A",
     "category": "TERNERA",
     "name": "TERNERA CON GAMBAS",
-    "delivery": "10,15 €",
-    "salon": "10,15 € "
+    "delivery": "10,15€",
+    "salon": "10,15€ "
   },
   {
     "cod": "59",
     "category": "TERNERA",
     "name": "TERNERA CON BROTES DE SOJA",
-    "delivery": "6,45 €",
-    "salon": "7,60 € "
+    "delivery": "6,45€",
+    "salon": "7,60€ "
   },
   {
     "cod": "60",
     "category": "TERNERA",
     "name": "TERNERA CON PATATAS FRITAS",
-    "delivery": "6,60 €",
-    "salon": "7,20 € "
+    "delivery": "6,60€",
+    "salon": "7,20€ "
   },
   {
     "cod": "94",
     "category": "TERNERA",
     "name": "TERNERA CON BAMBU Y SETAS CHINAS",
-    "delivery": "7,35 €",
-    "salon": "8,30 € "
+    "delivery": "7,35€",
+    "salon": "8,30€ "
   },
   {
     "cod": "",
@@ -780,50 +780,50 @@
     "cod": "61",
     "category": "CERDO",
     "name": "CERDO AGRIDULCE",
-    "delivery": "6,10 €",
-    "salon": "7,00 € "
+    "delivery": "6,10€",
+    "salon": "7,00€ "
   },
   {
     "cod": "62",
     "category": "CERDO",
     "name": "CERDO PICANTE CON VERDURAS",
-    "delivery": "6,00 €",
-    "salon": "7,00 € "
+    "delivery": "6,00€",
+    "salon": "7,00€ "
   },
   {
     "cod": "64",
     "category": "CERDO",
     "name": "COSTILLAS AGRIDULCES",
-    "delivery": "6,60 €",
-    "salon": "7,20 € "
+    "delivery": "6,60€",
+    "salon": "7,20€ "
   },
   {
     "cod": "65",
     "category": "CERDO",
     "name": "COSTILLAS DE CERDO ASADAS AL ESTILO CHINO",
-    "delivery": "6,70 €",
-    "salon": "7,30 € "
+    "delivery": "6,70€",
+    "salon": "7,30€ "
   },
   {
     "cod": "66",
     "category": "CERDO",
     "name": "CERDO CON BROTES DE SOJA",
-    "delivery": "6,00 €",
-    "salon": "7,00 € "
+    "delivery": "6,00€",
+    "salon": "7,00€ "
   },
   {
     "cod": "67",
     "category": "CERDO",
     "name": "VERDURAS CON CERDO",
-    "delivery": "6,00 €",
-    "salon": "7,00 € "
+    "delivery": "6,00€",
+    "salon": "7,00€ "
   },
   {
     "cod": "67A",
     "category": "CERDO",
     "name": "CERDO CON OREJA DE MADERA",
-    "delivery": "6,75 €",
-    "salon": "7,35 € "
+    "delivery": "6,75€",
+    "salon": "7,35€ "
   },
   {
     "cod": "",
@@ -843,127 +843,127 @@
     "cod": "68",
     "category": "POLLO",
     "name": "POLLO CON OREJA DE MADERA",
-    "delivery": "6,95 €",
-    "salon": "7,55 € "
+    "delivery": "6,95€",
+    "salon": "7,55€ "
   },
   {
     "cod": "69",
     "category": "POLLO",
     "name": "POLLO CON PATATAS FRITAS",
-    "delivery": "6,45 €",
-    "salon": "7,05 € "
+    "delivery": "6,45€",
+    "salon": "7,05€ "
   },
   {
     "cod": "69A",
     "category": "POLLO",
     "name": "FILETE DE POLLO CON PATATAS FRITAS",
-    "delivery": "6,55 €",
-    "salon": "7,15 € "
+    "delivery": "6,55€",
+    "salon": "7,15€ "
   },
   {
     "cod": "71",
     "category": "POLLO",
     "name": "POLLO CON VERDURAS Y SALSA CURRY",
-    "delivery": "5,95 €",
-    "salon": "7,00 € "
+    "delivery": "5,95€",
+    "salon": "7,00€ "
   },
   {
     "cod": "72",
     "category": "POLLO",
     "name": "POLLO PICANTE CON VERDURAS",
-    "delivery": "5,95 €",
-    "salon": "7,00 € "
+    "delivery": "5,95€",
+    "salon": "7,00€ "
   },
   {
     "cod": "73",
     "category": "POLLO",
     "name": "POLLO CON ALMENDRAS",
-    "delivery": "6,10 €",
-    "salon": "7,00 € "
+    "delivery": "6,10€",
+    "salon": "7,00€ "
   },
   {
     "cod": "74",
     "category": "POLLO",
     "name": "VERDURAS CON POLLO",
-    "delivery": "5,95 €",
-    "salon": "7,00 € "
+    "delivery": "5,95€",
+    "salon": "7,00€ "
   },
   {
     "cod": "75",
     "category": "POLLO",
     "name": "POLLO CON BROTES DE SOJA",
-    "delivery": "6,15 €",
-    "salon": "7,10 € "
+    "delivery": "6,15€",
+    "salon": "7,10€ "
   },
   {
     "cod": "76",
     "category": "POLLO",
     "name": "POLLO CON CHAMPIÑON",
-    "delivery": "6,10 €",
-    "salon": "7,00 € "
+    "delivery": "6,10€",
+    "salon": "7,00€ "
   },
   {
     "cod": "77",
     "category": "POLLO",
     "name": "BOLAS DE POLLO FRITAS",
-    "delivery": "5,80 €",
-    "salon": "7,00 € "
+    "delivery": "5,80€",
+    "salon": "7,00€ "
   },
   {
     "cod": "78",
     "category": "POLLO",
     "name": "POLLO CON PIÑA",
-    "delivery": "6,10 €",
-    "salon": "7,00 € "
+    "delivery": "6,10€",
+    "salon": "7,00€ "
   },
   {
     "cod": "79",
     "category": "POLLO",
     "name": "POLLO CON MAIZ",
-    "delivery": "6,15 €",
-    "salon": "7,00 € "
+    "delivery": "6,15€",
+    "salon": "7,00€ "
   },
   {
     "cod": "80",
     "category": "POLLO",
     "name": "POLLO AGRIDULCE",
-    "delivery": "6,35 €",
-    "salon": "7,00 € "
+    "delivery": "6,35€",
+    "salon": "7,00€ "
   },
   {
     "cod": "82",
     "category": "POLLO",
     "name": "POLLO CON LIMON",
-    "delivery": "6,45 €",
-    "salon": "7,10 € "
+    "delivery": "6,45€",
+    "salon": "7,10€ "
   },
   {
     "cod": "82A",
     "category": "POLLO",
     "name": "POLLO ALMENDRADO",
-    "delivery": "6,65 €",
-    "salon": "7,25 € "
+    "delivery": "6,65€",
+    "salon": "7,25€ "
   },
   {
     "cod": "92",
     "category": "POLLO",
     "name": "POLLO A LA PANCHA O EN SALSA",
-    "delivery": "6,85 €",
-    "salon": "7,45 € "
+    "delivery": "6,85€",
+    "salon": "7,45€ "
   },
   {
     "cod": "93",
     "category": "POLLO",
     "name": "POLLO CON BAMBU Y SETAS CHINAS",
-    "delivery": "6,85 €",
-    "salon": "7,45 € "
+    "delivery": "6,85€",
+    "salon": "7,45€ "
   },
   {
     "cod": "407",
     "category": "POLLO",
     "name": "TIRAS DE POLLO EN TEMPURA CON SALSA SWEETCHILLY",
-    "delivery": "7,50 €",
-    "salon": "8,10 € "
+    "delivery": "7,50€",
+    "salon": "8,10€ "
   },
   {
     "cod": "",
@@ -983,36 +983,36 @@
     "cod": "95",
     "category": "PATO",
     "name": "PATO CON PIÑA",
-    "delivery": "7,65 €",
-    "salon": "8,00 € "
+    "delivery": "7,65€",
+    "salon": "8,00€ "
   },
   {
     "cod": "95A",
     "category": "PATO",
     "name": "PATO CON NARANJA",
-    "delivery": "7,80 €",
-    "salon": "8,40 € "
+    "delivery": "7,80€",
+    "salon": "8,40€ "
   },
   {
     "cod": "96",
     "category": "PATO",
     "name": "PATO CON BAMBU Y SETAS CHINAS",
-    "delivery": "8,10 €",
-    "salon": "8,70 € "
+    "delivery": "8,10€",
+    "salon": "8,70€ "
   },
   {
     "cod": "97",
     "category": "PATO",
     "name": "PATO PEKIN",
-    "delivery": "12,20 €",
-    "salon": "13,00 € "
+    "delivery": "12,20€",
+    "salon": "13,00€ "
   },
   {
     "cod": "97A",
     "category": "PATO",
     "name": "PATO A LA PLANCHA",
-    "delivery": "9,20 €",
-    "salon": "9,80 € "
+    "delivery": "9,20€",
+    "salon": "9,80€ "
   },
   {
     "cod": "",
@@ -1032,15 +1032,15 @@
     "cod": "404",
     "category": "GYOZAS",
     "name": "GYOZAS DE POLLO",
-    "delivery": "5,50 €",
-    "salon": "6,10 € "
+    "delivery": "5,50€",
+    "salon": "6,10€ "
   },
   {
     "cod": "404A",
     "category": "GYOZAS",
     "name": "EMPANADAS DE CARNE",
-    "delivery": "5,50 €",
-    "salon": "6,20 € "
+    "delivery": "5,50€",
+    "salon": "6,20€ "
   },
   {
     "cod": "",
@@ -1060,36 +1060,36 @@
     "cod": "104",
     "category": "DIM-SUM",
     "name": "XIA JIA AL VAPOR",
-    "delivery": "5,00 €",
-    "salon": "5,60 € "
+    "delivery": "5,00€",
+    "salon": "5,60€ "
   },
   {
     "cod": "106",
     "category": "DIM-SUM",
     "name": "SHAO MAI AL VAPOR",
-    "delivery": "5,00 €",
-    "salon": "5,60 € "
+    "delivery": "5,00€",
+    "salon": "5,60€ "
   },
   {
     "cod": "107",
     "category": "DIM-SUM",
     "name": "XIAO LONG BAO AL VAPOR",
-    "delivery": "5,00 €",
-    "salon": "5,60 € "
+    "delivery": "5,00€",
+    "salon": "5,60€ "
   },
   {
     "cod": "109B",
     "category": "DIM-SUM",
     "name": "KA JI JAO FRITO CON CURRY",
-    "delivery": "5,00 €",
-    "salon": "5,60 € "
+    "delivery": "5,00€",
+    "salon": "5,60€ "
   },
   {
     "cod": "109C",
     "category": "DIM-SUM",
     "name": "ZHA GUO FRITO",
-    "delivery": "5,00 €",
-    "salon": "5,60 € "
+    "delivery": "5,00€",
+    "salon": "5,60€ "
   },
   {
     "cod": "",
@@ -1116,85 +1116,85 @@
     "cod": "",
     "category": "REFRESCOS",
     "name": "COCACOLA",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "COCACOLA ZERO",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "COCACOLA ZERO ZERO",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "COCACOLA LIGHT",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "FANTA NARANJA",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "FANTA LIMON",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "SPRITE",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "AQUARIUS NARANJA",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "AQUARIUS LIMON",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "NESTEA DE LIMON",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "CASERA",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
     "category": "REFRESCOS",
     "name": "TONICA SCHEPPES",
-    "delivery": "2,20 €",
-    "salon": "2,20 € "
+    "delivery": "2,20€",
+    "salon": "2,20€ "
   },
   {
     "cod": "",
@@ -1215,28 +1215,28 @@
     "category": "CERVEZA",
     "name": "MAHOU 5 ESTRELLAS TERCIO",
     "delivery": "",
-    "salon": "2,70 € "
+    "salon": "2,70€ "
   },
   {
     "cod": "",
     "category": "CERVEZA",
     "name": "MAHOU VERDE",
-    "delivery": "2,70 €",
-    "salon": "2,70 € "
+    "delivery": "2,70€",
+    "salon": "2,70€ "
   },
   {
     "cod": "",
     "category": "CERVEZA",
     "name": "MAHOU 00 TOSTADA",
-    "delivery": "2,70 €",
-    "salon": "2,70 € "
+    "delivery": "2,70€",
+    "salon": "2,70€ "
   },
   {
     "cod": "",
     "category": "CERVEZA",
     "name": "MIXTA",
-    "delivery": "2,70 €",
-    "salon": "2,70 € "
+    "delivery": "2,70€",
+    "salon": "2,70€ "
   },
   {
     "cod": "",
@@ -1256,22 +1256,22 @@
     "cod": "",
     "category": "AGUA",
     "name": "CUEVAS 0,5L",
-    "delivery": "1,60 €",
-    "salon": "1,60 €"
+    "delivery": "1,60€",
+    "salon": "1,60€"
   },
   {
     "cod": "",
     "category": "",
     "name": "CUEVAS 1,5L",
-    "delivery": "3,00 €",
-    "salon": "3,00 €"
+    "delivery": "3,00€",
+    "salon": "3,00€"
   },
   {
     "cod": "",
     "category": "AGUA",
     "name": "FONT-BELLA AGUA CON GAS 0,5L",
-    "delivery": "1,60 €",
-    "salon": "1,60 €"
+    "delivery": "1,60€",
+    "salon": "1,60€"
   },
   {
     "cod": "",
@@ -1285,14 +1285,14 @@
     "category": "",
     "name": "SANGRIA 0,5L",
     "delivery": "",
-    "salon": "6,00 €"
+    "salon": "6,00€"
   },
   {
     "cod": "",
     "category": "",
     "name": "SANGRIA 1,5L",
     "delivery": "",
-    "salon": "12,00 €"
+    "salon": "12,00€"
   },
   {
     "cod": "",
@@ -1306,7 +1306,7 @@
     "category": "",
     "name": "TINTO DE VERANO",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
@@ -1320,35 +1320,35 @@
     "category": "TINO RIOJA",
     "name": "VALLE DEL VERSO \"VINO DE LA CASA\" 75 ML",
     "delivery": "",
-    "salon": "6,00 €"
+    "salon": "6,00€"
   },
   {
     "cod": "",
     "category": "",
     "name": "VALLE DEL VERSO \"VINO DE LA CASA\" 37,5 ML",
     "delivery": "",
-    "salon": "3,60 €"
+    "salon": "3,60€"
   },
   {
     "cod": "",
     "category": "",
     "name": "VALLE DEL VERSO \"VINO DE LA CASA\" COPA",
     "delivery": "",
-    "salon": "2,00 €"
+    "salon": "2,00€"
   },
   {
     "cod": "",
     "category": "TINO RIOJA",
     "name": "CAMPO VIEJO",
     "delivery": "",
-    "salon": "12,00 €"
+    "salon": "12,00€"
   },
   {
     "cod": "",
     "category": "TINO RIOJA",
     "name": "FAUSTINO VII",
     "delivery": "",
-    "salon": "10,00 €"
+    "salon": "10,00€"
   },
   {
     "cod": "",
@@ -1369,7 +1369,7 @@
     "category": "TINTO RIBERA",
     "name": "VIÑA MAYOR",
     "delivery": "",
-    "salon": "12,00 €"
+    "salon": "12,00€"
   },
   {
     "cod": "",
@@ -1390,7 +1390,7 @@
     "category": "TINTO JUMILLA",
     "name": "JUAN GIL",
     "delivery": "",
-    "salon": "25,00 €"
+    "salon": "25,00€"
   },
   {
     "cod": "",
@@ -1411,28 +1411,28 @@
     "category": "BLANCO VERDEJO",
     "name": "ARRIBEÑO 2022",
     "delivery": "",
-    "salon": "10,00 €"
+    "salon": "10,00€"
   },
   {
     "cod": "",
     "category": "",
     "name": "ARRIBEÑO 2022 COPA",
     "delivery": "",
-    "salon": "2,00 €"
+    "salon": "2,00€"
   },
   {
     "cod": "",
     "category": "BLANCO VERDEJO",
     "name": "ABADIA MANTRU",
     "delivery": "",
-    "salon": "10,00 €"
+    "salon": "10,00€"
   },
   {
     "cod": "",
     "category": "",
     "name": "ABADIA MANTRU COPA",
     "delivery": "",
-    "salon": "2,00 €"
+    "salon": "2,00€"
   },
   {
     "cod": "",
@@ -1453,7 +1453,7 @@
     "category": "BLANCO RIOJA",
     "name": "VIÑA SOLEDAD",
     "delivery": "",
-    "salon": "12,00 €"
+    "salon": "12,00€"
   },
   {
     "cod": "",
@@ -1474,21 +1474,21 @@
     "category": "BLANCO SEMIDULCE",
     "name": "ALMA",
     "delivery": "",
-    "salon": "10,00 €"
+    "salon": "10,00€"
   },
   {
     "cod": "",
     "category": "BLANCO SEMIDULCE",
     "name": "DIAMANTE",
     "delivery": "",
-    "salon": "10,00 €"
+    "salon": "10,00€"
   },
   {
     "cod": "",
     "category": "",
     "name": "DIAMANTE COPA",
     "delivery": "",
-    "salon": "2,00 €"
+    "salon": "2,00€"
   },
   {
     "cod": "",
@@ -1509,28 +1509,28 @@
     "category": "ROSADO",
     "name": "RENÉ BARBIER",
     "delivery": "",
-    "salon": "12,00 €"
+    "salon": "12,00€"
   },
   {
     "cod": "",
     "category": "ROSADO",
     "name": "BORDÓN",
     "delivery": "",
-    "salon": "10,00 €"
+    "salon": "10,00€"
   },
   {
     "cod": "",
     "category": "ROSADO",
     "name": "MATEUS ROSE",
     "delivery": "",
-    "salon": "15,00 €"
+    "salon": "15,00€"
   },
   {
     "cod": "",
     "category": "ROSADO",
     "name": "LAMBRUSCO",
     "delivery": "",
-    "salon": "12,00 €"
+    "salon": "12,00€"
   },
   {
     "cod": "",
@@ -1551,35 +1551,35 @@
     "category": "POSTRE",
     "name": "TARTA DE QUESO CASERA (acompañada de caramelo y nata)",
     "delivery": "",
-    "salon": "5,50 €"
+    "salon": "5,50€"
   },
   {
     "cod": "",
     "category": "POSTRE",
     "name": "HELADO COCO",
     "delivery": "",
-    "salon": "4,50 €"
+    "salon": "4,50€"
   },
   {
     "cod": "",
     "category": "POSTRE",
     "name": "CONTENSA",
     "delivery": "",
-    "salon": "4,50 €"
+    "salon": "4,50€"
   },
   {
     "cod": "",
     "category": "POSTRE",
     "name": "FLAN DE VAINILLA CON NATA",
     "delivery": "",
-    "salon": "2,35 €"
+    "salon": "2,35€"
   },
   {
     "cod": "",
     "category": "POSTRE",
     "name": "BOLA DE HELADO, FRESA NATA VAINILLA CHOCOLATE",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
@@ -1600,49 +1600,49 @@
     "category": "INFUSION",
     "name": "MANZANILLA",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
     "category": "INFUSION",
     "name": "TE VERDE",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
     "category": "INFUSION",
     "name": "MENTA POLEO",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
     "category": "INFUSION",
     "name": "TE NEGRO",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
     "category": "INFUSION",
     "name": "TE ROJO",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
     "category": "INFUSION",
     "name": "TILA",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
     "category": "INFUSION",
     "name": "TE CHINO",
     "delivery": "",
-    "salon": "3,00 €"
+    "salon": "3,00€"
   },
   {
     "cod": "",
@@ -1663,56 +1663,56 @@
     "category": "CAFÉ",
     "name": "CAFÉ SOLO",
     "delivery": "",
-    "salon": "1,70 €"
+    "salon": "1,70€"
   },
   {
     "cod": "",
     "category": "CAFÉ",
     "name": "CAFÉ CON LECHE",
     "delivery": "",
-    "salon": "1,70 €"
+    "salon": "1,70€"
   },
   {
     "cod": "",
     "category": "CAFÉ",
     "name": "CORTADO",
     "delivery": "",
-    "salon": "1,70 €"
+    "salon": "1,70€"
   },
   {
     "cod": "",
     "category": "CAFÉ",
     "name": "AMERICANO",
     "delivery": "",
-    "salon": "1,70 €"
+    "salon": "1,70€"
   },
   {
     "cod": "",
     "category": "CAFÉ",
     "name": "CARAJILLO",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
     "category": "CAFÉ",
     "name": "BOMBON",
     "delivery": "",
-    "salon": "2,50 €"
+    "salon": "2,50€"
   },
   {
     "cod": "",
     "category": "CAFÉ",
     "name": "DESCAFEINADO MAQUINA",
     "delivery": "",
-    "salon": "1,70 €"
+    "salon": "1,70€"
   },
   {
     "cod": "",
     "category": "CAFÉ",
     "name": "DESCAFEINADO SOBRE",
     "delivery": "",
-    "salon": "1,70 €"
+    "salon": "1,70€"
   },
   {
     "cod": "",
@@ -1732,63 +1732,63 @@
     "cod": "",
     "category": "SALSAS",
     "name": "AGRIDULCE",
-    "delivery": "0,40 €",
-    "salon": "0,40 €"
+    "delivery": "0,40€",
+    "salon": "0,40€"
   },
   {
     "cod": "",
     "category": "SALSAS",
     "name": "SOJA",
-    "delivery": "0,40 €",
-    "salon": "0,40 €"
+    "delivery": "0,40€",
+    "salon": "0,40€"
   },
   {
     "cod": "",
     "category": "SALSAS",
     "name": "PICANTE",
-    "delivery": "0,40 €",
-    "salon": "0,40 €"
+    "delivery": "0,40€",
+    "salon": "0,40€"
   },
   {
     "cod": "",
     "category": "SALSAS",
     "name": "MARISCO",
-    "delivery": "1,00 €",
-    "salon": "1,00 €"
+    "delivery": "1,00€",
+    "salon": "1,00€"
   },
   {
     "cod": "",
     "category": "SALSAS",
     "name": "ENSALADA",
-    "delivery": "1,00 €",
-    "salon": "1,00 €"
+    "delivery": "1,00€",
+    "salon": "1,00€"
   },
   {
     "cod": "",
     "category": "SALSAS",
     "name": "TERIYAKI",
-    "delivery": "1,00 €",
-    "salon": "1,00 €"
+    "delivery": "1,00€",
+    "salon": "1,00€"
   },
   {
     "cod": "",
     "category": "SALSAS",
     "name": "SWEETCHILLY",
-    "delivery": "1,00 €",
-    "salon": "1,00 €"
+    "delivery": "1,00€",
+    "salon": "1,00€"
   },
   {
     "cod": "",
     "category": "SALSAS",
     "name": "MAYOPICANTE",
-    "delivery": "1,00 €",
-    "salon": "1,00 €"
+    "delivery": "1,00€",
+    "salon": "1,00€"
   },
   {
     "cod": "",
     "category": "SALSAS",
     "name": "VINAGRETA",
-    "delivery": "0,40 €",
-    "salon": "0,40 €"
+    "delivery": "0,40€",
+    "salon": "0,40€"
   }
 ]

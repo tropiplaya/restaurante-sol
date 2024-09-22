@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    margin-bottom: 90px;
+    margin-bottom: 30px;
 }
 .header-slogan {
     font-family: cursive;
@@ -19,11 +19,16 @@ header {
     font-weight: bold;
 }
 
+#footer {
+    margin-top: 30px;
+    font-size: 1.2rem;
+}
+
 .nav-item a span {
     font-size: 1.5rem;
     font-weight: 1000;
-    text-decoration: underline;
     font-style: oblique;
+    color: #3a0e0e;
 }
 
 body {
@@ -31,11 +36,20 @@ body {
 }
 
 .card-menu {
-    background-color: #f4efeb;
+    background-color: RGB(244, 239, 235, 0.2);
     margin: 10px;
     color: #3e362e;
 }
 
 h6 {
     font-size: 0.8rem;
+}
+
+.card-header {
+    background-color: #3a0e0e;
+    color: aliceblue;
+}
+
+.card-body h4 {
+    text-transform: uppercase;
 }
