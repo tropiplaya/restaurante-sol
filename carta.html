@@ -40,10 +40,10 @@
                         </div>
                     </div>
                     <div class="row card-body container-fluid h-100">
-                        <div class="d-md-none d-lg-block col-lg-3" id="carta-index">
+                        <div class="d-md-none d-lg-block col-lg-4" id="carta-index">
 
                         </div>
-                        <div class="col-lg-9" id="carta-content">
+                        <div class="col-lg-8" id="carta-content">
 
                         </div>
                     </div>
@@ -74,7 +74,7 @@
             for (var category in parsedData) {
                 /* category section */
                 if (category.toLocaleLowerCase() == "refrescos" || category.toLocaleLowerCase() == "salsas" || category.toLocaleLowerCase() == "postre") {
-                    html += '<div style="margin-top:40px"></div>';
+                    html += '<div class="mt-5"></div>';
                 }
                 let catAnchor = btoa(category);
 
