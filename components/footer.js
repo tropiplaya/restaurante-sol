@@ -13,7 +13,7 @@ footerTemplate.innerHTML = `
             </div>
 
             <div class="col-xs-12 col-md-6 px-5">
-                <p class="text-center">Teléfono: 915052462</p>
+                <p class="text-center">Teléfonos: 915052462 - 915053176 - 691438929</p>
             </div>
         </div>
         <div class="row text-center mt-3">
