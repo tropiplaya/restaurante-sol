@@ -17,7 +17,7 @@ footerTemplate.innerHTML = `
             </div>
         </div>
         <div class="row text-center mt-3">
-            <p>&copy; copyright Restarurante Chino Sol</p>
+            <p>&copy; copyright Restaurante Chino Sol</p>
         </div>
     </div>
 </footer>
