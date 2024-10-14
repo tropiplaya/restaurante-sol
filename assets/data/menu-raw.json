@@ -15,7 +15,7 @@
   },
   {
     "cod": "5",
-    "category": "ENSALADAS",
+    "_category": "ENSALADAS",
     "name": "ENSALADA CON BROTES DE SOJA",
     "delivery": "4,00€",
     "salon": "4,60€ "
@@ -393,7 +393,7 @@
   },
   {
     "cod": "33",
-    "category": "VERDURA",
+    "_category": "VERDURA",
     "name": "BROTES DE SOJA SALTEADOS",
     "delivery": "5,30€",
     "salon": "6,20€ "
@@ -411,6 +411,13 @@
     "name": "PATATAS FRITAS",
     "delivery": "3,95€",
     "salon": "4,55€ "
+  },
+  {
+    "cod": "83",
+    "category": "POLLO",
+    "name": "BAMBÚ Y SETAS CHINAS SALTEADAS",
+    "delivery": "6,65€",
+    "salon": "7,25€ "
   },
   {
     "cod": "",
@@ -526,7 +533,7 @@
   },
   {
     "cod": "44A",
-    "category": "GAMBAS",
+    "_category": "GAMBAS",
     "name": "GAMBAS CON BROTES DE SOJA",
     "delivery": "7,60€",
     "salon": "8,20€ "
@@ -743,7 +750,7 @@
   },
   {
     "cod": "59",
-    "category": "TERNERA",
+    "_category": "TERNERA",
     "name": "TERNERA CON BROTES DE SOJA",
     "delivery": "6,45€",
     "salon": "7,60€ "
@@ -806,7 +813,7 @@
   },
   {
     "cod": "66",
-    "category": "CERDO",
+    "_category": "CERDO",
     "name": "CERDO CON BROTES DE SOJA",
     "delivery": "6,00€",
     "salon": "7,00€ "
@@ -890,7 +897,7 @@
   },
   {
     "cod": "75",
-    "category": "POLLO",
+    "_category": "POLLO",
     "name": "POLLO CON BROTES DE SOJA",
     "delivery": "6,15€",
     "salon": "7,10€ "
