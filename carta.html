@@ -56,7 +56,7 @@
 
 <script>
     $(document).ready(function () {
-        $.getJSON("./assets/data/menu-raw.json", function (data) {
+        $.getJSON("./assets/data/menu-raw.json?" + Date.now(), function (data) {
             var parsedData = {};
             data.forEach(function (row) {
                 let category = row["category"];
