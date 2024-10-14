@@ -406,18 +406,18 @@
     "salon": "5,70€ "
   },
   {
+    "cod": "83",
+    "category": "VERDURA",
+    "name": "BAMBÚ Y SETAS CHINAS SALTEADAS",
+    "delivery": "6,65€",
+    "salon": "7,25€ "
+  },
+  {
     "cod": "103A",
     "category": "VERDURA",
     "name": "PATATAS FRITAS",
     "delivery": "3,95€",
     "salon": "4,55€ "
-  },
-  {
-    "cod": "83",
-    "category": "POLLO",
-    "name": "BAMBÚ Y SETAS CHINAS SALTEADAS",
-    "delivery": "6,65€",
-    "salon": "7,25€ "
   },
   {
     "cod": "",
