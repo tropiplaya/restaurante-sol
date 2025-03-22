@@ -242,14 +242,14 @@
     "category": "BANDEJAS DE ARROZ CRUJIENTE",
     "name": "ARROZ CON POLLO CRUJIENTE ,SALSA TERIYAKI Y HUEVO",
     "delivery": "9,10€",
-    "salon": "12,00€ "
+    "salon": "13,50€ "
   },
   {
     "cod": "411",
     "category": "BANDEJAS DE ARROZ CRUJIENTE",
     "name": "ARROZ CON PATO CRUJIENTE, SALSA TERIYAKI Y HUEVO",
     "delivery": "11,50€",
-    "salon": "12,50€ "
+    "salon": "14,50€ "
   },
   {
     "cod": "",
@@ -410,7 +410,7 @@
     "category": "VERDURA",
     "name": "BAMBÚ Y SETAS CHINAS SALTEADAS",
     "delivery": "6,65€",
-    "salon": "7,25€ "
+    "salon": "7,20€ "
   },
   {
     "cod": "103A",
@@ -557,7 +557,7 @@
     "category": "GAMBAS",
     "name": "GAMBAS CON BAMBU Y SETAS CHINAS",
     "delivery": "8,80€",
-    "salon": "9,40€ "
+    "salon": "9,60€ "
   },
   {
     "cod": "85",
@@ -599,7 +599,7 @@
     "category": "CALAMARES",
     "name": "CALAMARES CON BAMBU Y SETAS CHINAS",
     "delivery": "8,30€",
-    "salon": "8,90€ "
+    "salon": "9,10€ "
   },
   {
     "cod": "47B",
@@ -963,7 +963,7 @@
     "category": "POLLO",
     "name": "POLLO CON BAMBU Y SETAS CHINAS",
     "delivery": "6,85€",
-    "salon": "7,45€ "
+    "salon": "7,60€ "
   },
   {
     "cod": "407",
