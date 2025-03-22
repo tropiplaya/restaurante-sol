@@ -350,6 +350,13 @@
     "salon": "7,00€ "
   },
   {
+    "cod": "90A",
+    "category": "FIDEOS",
+    "name": "FIDEOS DE ARROZ TRES DELICIAS",
+    "delivery": "6,35€",
+    "salon": "7,20€ "
+  }
+  {
     "cod": "",
     "category": "",
     "name": "",
@@ -662,105 +669,105 @@
     "category": "TERNERA",
     "name": "TERNERA CON SALSA DE TOMATE",
     "delivery": "6,40€",
-    "salon": "7,00€ "
+    "salon": "7,30€ "
   },
   {
     "cod": "49",
     "category": "TERNERA",
     "name": "TERNERA CON ZANAHORIA",
     "delivery": "6,40€",
-    "salon": "7,00€ "
+    "salon": "7,30€ "
   },
   {
     "cod": "50",
     "category": "TERNERA",
     "name": "TERNERA CON MAIZ",
     "delivery": "6,60€",
-    "salon": "7,20€ "
+    "salon": "7,50€ "
   },
   {
     "cod": "51",
     "category": "TERNERA",
     "name": "TERNERA CON VERDURAS Y SALSA CURRY",
     "delivery": "6,40€",
-    "salon": "7,00€ "
+    "salon": "7,30€ "
   },
   {
     "cod": "52",
     "category": "TERNERA",
     "name": "TERNERA CON SALSA DE OSTRAS",
     "delivery": "6,50€",
-    "salon": "7,10€ "
+    "salon": "7,40€ "
   },
   {
     "cod": "53",
     "category": "TERNERA",
     "name": "TERNERA CON PIMIENTOS VERDES",
     "delivery": "6,40€",
-    "salon": "7,10€ "
+    "salon": "7,40€ "
   },
   {
     "cod": "54",
     "category": "TERNERA",
     "name": "TERNERA CON CEBOLLA",
     "delivery": "6,40€",
-    "salon": "7,10€ "
+    "salon": "7,40€ "
   },
   {
     "cod": "55",
     "category": "TERNERA",
     "name": "TERNERA CON CHAMPIÑONES",
     "delivery": "6,50€",
-    "salon": "7,70€ "
+    "salon": "8,00€ "
   },
   {
     "cod": "55A",
     "category": "TERNERA",
     "name": "TERNERA CON OREJA DE MADERA",
     "delivery": "7,05€",
-    "salon": "7,70€ "
+    "salon": "8,0€ "
   },
   {
     "cod": "56",
     "category": "TERNERA",
     "name": "TERNERA PICANTE CON VERDURAS",
     "delivery": "6,40€",
-    "salon": "7,50€ "
+    "salon": "7,80€ "
   },
   {
     "cod": "57",
     "category": "TERNERA",
     "name": "VERDURAS CON TERNERA",
     "delivery": "6,35€",
-    "salon": "7,50€ "
+    "salon": "7,80€ "
   },
   {
     "cod": "58",
     "category": "TERNERA",
     "name": "TERNERA A LA PLANCHA O EN SALSA",
     "delivery": "7,15€",
-    "salon": "7,80€ "
+    "salon": "8,10€ "
   },
   {
     "cod": "58A",
     "category": "TERNERA",
     "name": "TERNERA CON GAMBAS",
     "delivery": "10,15€",
-    "salon": "10,15€ "
+    "salon": "10,45€ "
   },
   {
     "cod": "59",
     "_category": "TERNERA",
     "name": "TERNERA CON BROTES DE SOJA",
     "delivery": "6,45€",
-    "salon": "7,60€ "
+    "salon": "7,90€ "
   },
   {
     "cod": "60",
     "category": "TERNERA",
     "name": "TERNERA CON PATATAS FRITAS",
     "delivery": "6,60€",
-    "salon": "7,20€ "
+    "salon": "7,50€ "
   },
   {
     "cod": "94",
